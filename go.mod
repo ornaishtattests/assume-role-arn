@@ -1,4 +1,4 @@
-module github.com/nordcloud/assume-role-arn
+module github.com/ornaishtattests/assume-role-arn
 
 go 1.12
 
